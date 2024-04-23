@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TEP4", "TEP4\TEP4.vcxproj", "{426E835F-4201-4336-A4E6-1F1AC244945D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{426E835F-4201-4336-A4E6-1F1AC244945D}.Debug|x64.ActiveCfg = Debug|x64
+		{426E835F-4201-4336-A4E6-1F1AC244945D}.Debug|x64.Build.0 = Debug|x64
+		{426E835F-4201-4336-A4E6-1F1AC244945D}.Debug|x86.ActiveCfg = Debug|Win32
+		{426E835F-4201-4336-A4E6-1F1AC244945D}.Debug|x86.Build.0 = Debug|Win32
+		{426E835F-4201-4336-A4E6-1F1AC244945D}.Release|x64.ActiveCfg = Release|x64
+		{426E835F-4201-4336-A4E6-1F1AC244945D}.Release|x64.Build.0 = Release|x64
+		{426E835F-4201-4336-A4E6-1F1AC244945D}.Release|x86.ActiveCfg = Release|Win32
+		{426E835F-4201-4336-A4E6-1F1AC244945D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CF93967-0C88-4E08-A888-F3A59933D2D0}
+	EndGlobalSection
+EndGlobal
